@@ -8,4 +8,4 @@ Hotel Management System: This project is a web-based application that allows the
 ![Screenshot_4170](https://user-images.githubusercontent.com/68301626/189540058-1d9f7145-c2fa-48d6-8a48-585f17b73402.png)
 ![Screenshot_4164](https://user-images.githubusercontent.com/68301626/189540090-c417a0b8-7b29-4d58-9237-4e83627ff213.png)![Screenshot_4159](https://user-images.githubusercontent.com/68301626/189540101-7040ad67-9410-4bb2-ad05-6b02c5f471ff.png)
 
-![Screenshot_4173](https://user-images.githubusercontent.com/68301626/189540113-9c0b30ab-9cf8-4a0b-a999-16288bc8a069.png)
+![Screenshot_4174](https://user-images.githubusercontent.com/68301626/189540185-8e6b3640-eba9-4e9a-858c-d0c781ff0c9c.png)
